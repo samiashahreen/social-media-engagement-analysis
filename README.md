@@ -1,5 +1,3 @@
-# social-media-engagement-analysis
-
 # Social Media Engagement Analysis
 
 ## 1. Project Overview
