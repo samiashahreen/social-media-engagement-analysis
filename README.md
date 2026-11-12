@@ -119,3 +119,14 @@ The project uses a structured analytical workflow to support reproducibility and
 
 The project is being developed in stages. The current submission focuses on data exploration, preprocessing, and baseline Linear Regression development and evaluation. Additional regression models and comparative evaluation will follow in subsequent project stages.
 Reporting: Summarize the findings, answer the research questions, and discuss the limitations of the analysis.
+
+## 10. Generative AI (GenAI) Assistance
+
+Generative AI tools were used to support parts of the coding and data analysis process. This assistance included:
+
+- Supporting Python code development and troubleshooting.
+- Explaining coding concepts, functions, and data manipulation techniques.
+- Assisting with debugging and resolving errors.
+- Providing guidance on data visualization and model implementation.
+
+All AI-generated suggestions were reviewed, tested, and adapted as needed. The final code, analytical decisions, interpretation of results, and project conclusions were reviewed by the project author.
